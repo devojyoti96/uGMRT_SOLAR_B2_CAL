@@ -128,5 +128,5 @@ If you use this pipeline or scripts in your analysis, please cite the related pu
 ## Contact
 
 For questions or issues, please contact:
-- Devojyoti Kansabanik (devojyoti96@gmail.com)
+- Devojyoti Kansabanik (devojyoti96@gmail.com), Soham Dey (sdey@ncra.tifr.res.in)
 
